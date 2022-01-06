@@ -1,5 +1,7 @@
 # Tree-Core-Email-
 Email Dev
+General: Scale 0.5 - From PSD - EMAIL criteria
 
-Scale 0.5 - From PSD - EMAIL criteria
-White Border on CTA for dark-mode
+Dark-Mode criteria:
+-White Border on CTA 
+-Main Div background changed the color #F1F1F1 to keep the body format
